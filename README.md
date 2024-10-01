@@ -44,9 +44,14 @@ node server.js
 cd docs 
 npm run dev
 
+
+
 ## Screenshots
-![](images/home%20page.png)
-![](images/login.png)
-![](images/editor.png)
-![](images/documet%20database.png)
-![](images/users.png)
+
+<img src="images/home page.png" alt="Screenshot 1" width="400" style="margin-bottom: 20px;">
+<img src="images/login.png" alt="Screenshot 2" width="400" style="margin-bottom: 20px;">
+<img src="images/editor.png" alt="Screenshot 3" width="400" style="margin-bottom: 20px;">
+<img src="images/users.png" alt="Screenshot 4" width="400" style="margin-bottom: 20px;">
+<img src="images/documet database.png" alt="Screenshot 5" width="400" style="margin-bottom: 20px;">
+
+
