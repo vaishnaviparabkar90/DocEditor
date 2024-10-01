@@ -1,0 +1,24 @@
+{
+  "name": "my-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "docx": "^8.5.0",
+    "express": "^4.21.0",
+    "jspdf": "^2.5.2",
+    "nodemailer": "^6.9.15",
+    "pdf-lib": "^1.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
